@@ -1,12 +1,4 @@
 
-## Freeware web-based calculation tools for geotechnical engineers
+## 免费的岩土工程在线计算工具
 
-Webappsforengineers are freely available online geotechnical engineering calculation tools based on published research 
-and developed for research dissemination and teaching. The apps enable users to engage with published methods and 
-frameworks immediately, allowing initial sizing calculations to be performed and exploration of the sensitivity of 
-design inputs (e.g. geotechnical properties and loads) on design outputs (e.g. foundation or anchor geometry and 
-resistance). In some cases geometry of the structure is an input, although a key value of many of the automated 
-calculation tools presented in these apps is the ability to change the design question from ‘is the factor of safety for
-this foundation sufficient?’ to ‘what is the minimum geometry of the foundation to ensure the required factor of 
-safety?’. The latter is arguably the more useful design question and the optimization routines in those tools applying a
-failure envelope methodology, enable automated iteration to determine the optimized geometry.
+免费在线岩土工程计算工具，是基于已发表的论文，为研究成果更好的传播和教学而开发。这些应用程序使用户能够立即使用已开发的方法和框架，可以进行初步的尺寸计算，并探索设计参数（例如岩土特性和荷载）对计算输出（例如基础或锚定几何形状和阻力）的影响。在某些情况下，结构输入几何参数，尽管许多在这些应用程序中提出的自动计算工具的一个关键值是将设计问题从“计算基础的安全系数问题”转变为“确保满足安全系数的基础最小几何尺寸的问题”。后者可以说是更有用的设计问题，并且应用失效包络方法工具中的优化程序进行自动迭代，进而确定优化的几何形状。
